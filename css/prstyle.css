@@ -1,0 +1,183 @@
+    /* Begin Body Style */
+    
+    body {
+        background-image: url(../images/bg.jpg);
+        margin-bottom: 0px;
+        padding: 0px;
+        text-align: center;
+        font-size: 35px;
+        color: #2980B9;
+        font-family: BlinkMacSystemFont;
+        position: relative;
+        right: -100%;
+        z-index: 1000;
+    }
+    /* End Body Style */
+    /* Begin Header Style */
+    
+    .navbar {
+        margin: 0;
+        padding: 0;
+    }
+    
+    .A h1 {
+        color: #FFf;
+    }
+    
+    .A nav {
+        font-size: 40px;
+    }
+    
+    .A {
+        position: relative;
+        margin-right: 0px;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+    .A div ul li {
+        text-align: right !important;
+        padding: 0px 20px 0px 20px;
+    }
+    
+    .mr-auto {
+        font-size: 90%;
+        margin-left: 15%;
+    }
+    
+    .A a:hover {
+        color: tomato !important;
+    }
+    /* End Header Style */
+    /* Begin Master header Style */
+    
+    .master-header {
+        text-align: center;
+        padding: 20px 20PX;
+        margin: 0px 0px 0px 0px;
+    }
+    
+    .master-header img {
+        height: 500px;
+        width: 500px;
+        padding: 20px 0px 0px 0px;
+    }
+    
+    #card {
+        margin: auto auto;
+        margin-bottom: 30px;
+        margin-top: 5%;
+        font-size: 35px;
+        color: #2980B9;
+        font-family: BlinkMacSystemFont;
+        position: relative;
+        right: -100%;
+        z-index: 1000;
+    }
+    
+    .master-header h2 {
+        color: tomato;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    
+    .master-header h3 {
+        color: #000080;
+        padding: 20px 0px 0px 0px;
+        margin: 20px;
+    }
+    /* End Master header Style */
+    /* Begin Content Style */
+    
+    .content {
+        text-align: center;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    
+    .portfolio h1 {
+        color: #FF7F50;
+        font-size: 60px;
+    }
+    
+    .portfolio img {
+        height: 300px;
+        width: 300px;
+        text-align: center;
+        padding: 50px 50px;
+    }
+    
+    .about h1 {
+        font-size: 50px;
+        color: red;
+        padding: 70px 0px 0px 0px;
+    }
+    
+    .about p {
+        padding: 20px 20px 20px 20px;
+        border: 5px solid #DAA520;
+        width: 45%;
+        border-radius: 10px;
+        margin: 35px auto;
+        color: darkred;
+        font-size: 30px;
+        text-align: justify;
+    }
+    
+    .contact {
+        border: 5px solid hsl(281, 100%, 50%);
+        width: 45%;
+        margin: 35px auto;
+        border-radius: 15px;
+    }
+    
+    .contact h1 {
+        color: hsl(0, 59%, 41%);
+        font-size: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding-top: 15px;
+    }
+    
+    .contact input {
+        background-color: #ddd;
+    }
+    
+    .contact textarea {
+        background-color: #ddd;
+    }
+    
+    .contact form {
+        padding: 20px 20px 0px;
+    }
+    
+    .contact .form input,
+    textarea {
+        margin-bottom: 15px;
+    }
+    
+    .form .form-control {
+        width: 100%;
+        margin: auto 0px 10px;
+    }
+    
+    .form .btn-warning {
+        width: 20%;
+        margin: 20px 0px;
+        font-size: 20px;
+    }
+    
+    .form button {
+        padding: auto auto;
+        margin: 5px 0px 0px 0px;
+    }
+    /* End Content Style */
+    /* Begin Footer Style */
+    
+    .footer {
+        background-color: #333;
+        text-align: center;
+        color: white;
+        padding: 20px;
+        margin: auto auto;
+        font-size: 25px;
+        position: relative;
+    }
+    /* End Footer Style */

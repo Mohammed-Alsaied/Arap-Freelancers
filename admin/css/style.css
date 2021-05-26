@@ -1,0 +1,133 @@
+/* Begin Dashboard Style*/
+
+body {
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    font-size: 25px;
+}
+
+.navbar-brand {
+    color: tomato !important;
+    font-size: 50px;
+    font-family: 'Times New Roman';
+}
+
+.mr-auto {
+    margin-left: 50%;
+    font-size: 70px;
+}
+
+#nav {
+    color: tomato;
+    padding: 0px 0px 0px -100px;
+}
+
+#link {
+    text-decoration: none;
+    color: lightcoral;
+}
+
+.nav-link {
+    color: #1B4F72;
+    font-size: 36%;
+    text-align: center;
+    font-family: tahoma;
+}
+
+.message {
+    width: 220px;
+    background-color: #198754;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: large;
+    position: fixed;
+    top: 40%;
+    right: -100%;
+    z-index: 1000;
+}
+
+.find {
+    margin-bottom: 10px;
+    margin-right: -17px;
+}
+
+.result {
+    background-color: #ccc;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+    display: none;
+}
+
+.container {
+    margin: 30px 0px 0px 50px;
+}
+
+.card-header-pills {
+    font-size: 1px;
+}
+
+.alert {
+    margin-left: 16px;
+    margin-top: 1px;
+}
+
+.card {
+    margin-left: 80px;
+}
+
+.card-body h2,
+h1,
+h3 {
+    color: #BA4A00;
+    font-size: 30px;
+}
+
+.check-password {
+    color: red;
+    font-weight: bold;
+}
+
+#email_val {
+    color: red;
+    padding: 10px;
+    margin: 7px 0px;
+    font-size: 20px;
+    display: none;
+}
+
+#tabel {
+    font-size: 14px;
+}
+
+.footer {
+    background-color: #333;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 40% 0px 0px 0px;
+    font-size: 25px;
+}
+
+.login-form h3 {
+    margin: auto auto;
+    margin-bottom: 5px;
+    color: tomato;
+    font-size: 35px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.login-form {
+    width: 300px;
+    margin-left: 50%;
+    margin-top: 20%;
+}
+
+.login-form input {
+    margin-bottom: 10px;
+}
+
+.login-form .btn-warning {
+    width: 100%;
+}

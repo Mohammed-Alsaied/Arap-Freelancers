@@ -1,0 +1,55 @@
+/* Begin Footer Style */
+
+body {
+    background-image: url(../admin/images/bg.jpg);
+}
+
+#container {
+    margin-top: 60px;
+    width: 500px;
+    height: 800px;
+    padding-top: 20px;
+    border: 2px solid bisque;
+    border-radius: 10px;
+}
+
+#fsearch {
+    margin-top: 25px;
+}
+
+.freesignup {
+    text-align: center;
+    font-size: 40px;
+    right: 30%;
+    margin-top: 30px;
+}
+
+.done {
+    width: 220px;
+    background-color: #198754;
+    color: #fff;
+    padding: 10px;
+    border-radius: 15px;
+    font-size: large;
+    position: fixed;
+    top: 40%;
+    right: -100%;
+    z-index: 10000;
+}
+
+#index {
+    margin-top: 14%;
+}
+
+.footer {
+    background-color: #333;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    margin: 23% 0% auto;
+    font-size: 25px;
+    position: relative;
+}
+
+
+/* End Footer Style */
